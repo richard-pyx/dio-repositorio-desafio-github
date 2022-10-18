@@ -1,13 +1,13 @@
-Receita 
+# Receita de Brownie
 
-# Ingredientes
+## Ingredientes
  - 4 Ovos
  - 200g de manteiga derretida
  - 1 xícara de açúcar
  - 2 xícaras de achocolatado em pó
  - 1 xícara de farinha de trigo
 
-# Modo de Preparo
+## Modo de Preparo
 1. Coloque em um pote os ovos, o açúcar e a manteiga derretida e em seguida misture até ficar homogeneo.
 2. Depois adicione o achocolatado em pó, misture e vá adicionando aos poucos a farinha de trigo.
 3. Misture bem até ficar homogeneo.
